@@ -1,0 +1,2 @@
+sodapy==2.2.0
+datetime==5.1
